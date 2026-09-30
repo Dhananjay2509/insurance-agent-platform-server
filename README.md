@@ -1198,6 +1198,3 @@ would take to change — in
 | [client/README.md](https://github.com/abnair715-png/Insurance-Agent-Platform-client#readme) | Running, commands, layout |
 | [client/docs/deployment.md](https://github.com/abnair715-png/Insurance-Agent-Platform-client/blob/main/docs/deployment.md) | **Vercel** deployment, with troubleshooting |
 
-## Licence
-
-Written as an interview assignment. Not licensed for production use.
